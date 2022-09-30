@@ -539,5 +539,17 @@
         "speed": "5g",
         "connectivity":"c"
      },
+    {   "id": "40",
+        "company name": "oppo",
+        "model number": "reno 6 pro",
+        "ram": "8 gb",
+        "storage": "128 gb",
+        "color": "cerulean blue",
+        "number of speakers": "2",
+        "launch Date":["5/6/2021"],
+        "camera": "64 mp",
+        "speed": "5g",
+        "connectivity":"c"
+    },
     
 ]
